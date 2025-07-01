@@ -23,10 +23,4 @@
    Train on real customer support transcripts
 
 
-
-
-SUBMITTED BY-
-GAURAV
-(MECHANICAL ENGINEERING)
-
 Project for learning and demonstration purposes
