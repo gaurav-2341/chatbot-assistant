@@ -24,3 +24,5 @@
 
 
 Project for learning and demonstration purposes
+
+YOU CAN RUN THE CHATBOT SOURCE CODE IN TERMINAL
