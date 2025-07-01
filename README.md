@@ -25,6 +25,6 @@ Cancel my order:
 
 SUBMITTED BY-
 GAURAV
-MECHANICAL ENGINEERING
+(MECHANICAL ENGINEERING)
 
 Project for learning and demonstration purposes
