@@ -1,4 +1,4 @@
-🧠 Customer Assistant Chatbot:
+# Customer Assistant Chatbot:
     A simple and smart virtual assistant built in Python that helps customers with their order-related queries in English and Hindi. It detects user intent, understands          emotions, and replies politely and empathetically.
 
 🚀 Features
